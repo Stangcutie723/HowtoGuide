@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 QASite::Application.configure do
+=======
+HowtoGuide::Application.configure do
+>>>>>>> 5cd47b1e9a74be0a292d129b0d3433644bda9586
   # Settings specified here will take precedence over those in config/application.rb.
 
   # Code is not reloaded between requests.

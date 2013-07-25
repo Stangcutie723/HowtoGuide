@@ -43,6 +43,7 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+<<<<<<< HEAD
 
 group :test, :development do
   gem 'rspec-rails', '~> 2.11'
@@ -53,3 +54,5 @@ group :test do
 end
 
 
+=======
+>>>>>>> 5cd47b1e9a74be0a292d129b0d3433644bda9586

@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 QASite::Application.routes.draw do
   resources :sites
 
+=======
+HowtoGuide::Application.routes.draw do
+>>>>>>> 5cd47b1e9a74be0a292d129b0d3433644bda9586
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

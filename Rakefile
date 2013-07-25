@@ -3,4 +3,8 @@
 
 require File.expand_path('../config/application', __FILE__)
 
+<<<<<<< HEAD
 QASite::Application.load_tasks
+=======
+HowtoGuide::Application.load_tasks
+>>>>>>> 5cd47b1e9a74be0a292d129b0d3433644bda9586

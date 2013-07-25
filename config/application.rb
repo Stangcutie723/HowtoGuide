@@ -5,9 +5,14 @@ require 'rails/all'
 # Require the gems listed in Gemfile, including any gems
 # you've limited to :test, :development, or :production.
 Bundler.require(:default, Rails.env)
+<<<<<<< HEAD
 Bundler.require(*Rails.groups(:assets => %w(development test)))
 
 module QASite
+=======
+
+module HowtoGuide
+>>>>>>> 5cd47b1e9a74be0a292d129b0d3433644bda9586
   class Application < Rails::Application
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
